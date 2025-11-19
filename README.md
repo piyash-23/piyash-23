@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="ChatGPT Image Nov 19, 2025, 08_38_27 AM" src="https://github.com/user-attachments/assets/b4e3a9b3-1570-4abf-a396-9a546dc6821e" />
 <h1 align="center">Hi 👋, I'm Easin Arafat Piyash</h1>
 <h3 align="center">Full(MERN) Stack developer from Bangladesh.</h3>
 
